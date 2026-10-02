@@ -4,5 +4,5 @@
 :HL["/partner-decks/_next/static/media/904be59b21bd51cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/partner-decks/_next/static/media/e18f83c737786aa7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/partner-decks/_next/static/media/e74f24ed7f0e4323-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/partner-decks/_next/static/css/881d94684ab2b590.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"deck","param":{"type":"d","key":"prologic","siblings":["_not-found","_global-error"]},"prefetchHints":4192,"slots":{"children":{"name":"present","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"s-hhoiuHQy1RLGrKb2p6c"}
+:HL["/partner-decks/_next/static/css/001c040d5dafa361.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"deck","param":{"type":"d","key":"prologic","siblings":["_not-found","_global-error"]},"prefetchHints":4192,"slots":{"children":{"name":"present","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"MdJhMSF2IDbtyzjPYQdg8"}
